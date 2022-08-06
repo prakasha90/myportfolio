@@ -19,7 +19,6 @@ const App = () => {
       <Projectcontainer/>
       <Experiencecontainer/>
       <Contact/>
-      
     </div>
   )
 }
